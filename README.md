@@ -18,4 +18,6 @@ se o usuário digitar "sair" ou algo similar.
 - Os filmes terão que ser mostrados de forma ordenada por nome
 - Prever possíveis erros.
 - Usar alguma biblioteca. 
-- em breve mais funções para o programa...
+
+# Mostrando o Programa
+![image](https://github.com/JoseERBWolf/consultaFilme/assets/103012263/15e02147-9f03-4818-94f2-cc3fad3548c4)
