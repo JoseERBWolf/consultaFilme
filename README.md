@@ -1,5 +1,5 @@
 # BuscaFilmes
-Programa utilizando uma API, para fazer a busca de filmes, após a busca o usuário é informado se a busca foi encontrada, caso não seja será "exibido" uma das possíveis excessões capturadas, os filmes são mostrados de forma ordenada pelo nome, e após isso é gerado um arquivo .json
+Programa utilizando uma API, para fazer a busca de filmes, após a busca o usuário é informado se a busca foi encontrada, caso não seja será "exibido" uma das possíveis exceções capturadas, os filmes são mostrados de forma ordenada pelo nome, e após isso é gerado um arquivo .json
 
 # DividirParaConquistar
 
