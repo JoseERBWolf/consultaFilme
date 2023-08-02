@@ -1,26 +1,6 @@
 # BuscaFilmes
 Programa utilizando uma API, para fazer a busca de filmes, após a busca o usuário é informado se a busca foi encontrada, caso não seja será "exibido" uma das possíveis exceções capturadas, os filmes são mostrados de forma ordenada pelo nome, e após isso é gerado um arquivo .json
 
-# DividirParaConquistar
-
-.1 - criando as classes:
-
-  - classe para executar o programa
-  - classe para gerar o arquivo .json
-  - classe para o HttpRequest
-  - classe para o HttpResponse
-  - classe FilmeTitulo(irá conter os dados do filme)
-  - classe record(o que irá consumir da API)
-
-.2 - funcionalidade:
-
-- na Parte de executar o programa só poderá parar 
-se o usuário digitar "sair" ou algo similar.
-- Os filmes terão que ser mostrados de forma ordenada por nome.
-- Prever possíveis erros.
-- Usar alguma biblioteca.
-- Ao finalizar o programa todos os filmes listados no consoles deverão esta em um arquivo .json
-
 # Objetivo
 O objetivo principal deste projeto é consolidar ainda mais o consumo de API 
 
